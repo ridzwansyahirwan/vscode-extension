@@ -2,6 +2,7 @@
   "name": "hello-world-example",
   "displayName": "Hello World Example",
   "description": "A simple Hello World VS Code extension.",
+  "publisher": "ridzwan-dev",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.125.0"
